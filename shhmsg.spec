@@ -9,7 +9,6 @@ License:	Artistic
 Group:		System/Libraries
 URL:		http://shh.thathost.com/pub-unix/
 Source0:	http://shh.thathost.com/pub-unix/files/%{name}-%{version}.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 C-functions for error messages, verbose messages and `normal'
