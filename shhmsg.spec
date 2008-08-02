@@ -4,7 +4,7 @@
 Summary:	Library for displaying messages
 Name:		shhmsg
 Version:	1.4.1
-Release:	%mkrel 6
+Release:	%mkrel 7
 License:	Artistic
 Group:		System/Libraries
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
