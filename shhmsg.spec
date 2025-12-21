@@ -11,6 +11,7 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 URL:		https://shh.thathost.com/pub-unix/
 Source0:	http://shh.thathost.com/pub-unix/files/%{name}-%{version}.tar.bz2
 
+BuildRequires:	make
 %description
 C-functions for error messages, verbose messages and `normal'
 messages in terminalbased programs.
